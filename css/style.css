@@ -13,6 +13,11 @@
     border: 1px solid rgba(19, 87, 220, 1);
 }
 
+.btn a {
+    text-decoration: none;
+    color: #fff;
+}
+
 .profession {
     color: black;
     text-decoration: underline;
@@ -75,10 +80,14 @@
 }
 
 .register {
-    padding: 20px 265px;
+    padding: 20px 50px;
     color: #fff;
     background-color:rgba(19, 87, 220, 1);
     box-shadow: 7px 10px 31px 5px rgba(81, 124, 209, 0.29);
     border-radius: 10px;
     border: 1px solid rgba(19, 87, 220, 1);
+}
+
+.powder {
+    margin-left: 50px;
 }
