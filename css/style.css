@@ -1,0 +1,84 @@
+.signup{
+    color: #fff;
+    background-color:rgba(19, 87, 220, 1);
+    box-shadow: 7px 10px 31px 5px rgba(81, 124, 209, 0.29);
+    padding: 10px 15px;
+    margin-right: 20px;
+}
+
+.log-in {
+    padding: 0px 20px;
+    color: rgba(19, 87, 220, 1);
+    background-color: #fff;
+    border: 1px solid rgba(19, 87, 220, 1);
+}
+
+.profession {
+    color: black;
+    text-decoration: underline;
+}
+
+.fuse {
+    color:#828282;
+}
+
+.free {
+    color: #fff;
+    background-color:rgba(19, 87, 220, 1);
+    box-shadow: 7px 10px 31px 5px rgba(81, 124, 209, 0.29);
+    padding: 10px 15px;
+    margin-right: 20px;
+    border-radius:  10px;
+}
+
+.workings {
+    padding: 0px 20px;
+    color: rgba(19, 87, 220, 1);
+    background-color: #fff;
+    border: 1px solid rgba(19, 87, 220, 1);
+    border-radius: 10px;
+}
+
+.phone {
+    background-color: rgba(242, 242, 242, 1);
+}
+
+.email {
+    background-color: rgba(242, 242, 242, 1);
+}
+
+.number {
+    background-color: rgba(242, 242, 242, 1);
+}
+
+.password {
+    background-color: rgba(242, 242, 242, 1);
+}
+
+.name {
+    background-color: rgba(242, 242, 242, 1);
+}
+
+.already {
+    color:rgba(19, 87, 220, 1);
+    text-decoration: none;
+}
+
+.forgot {
+    color:rgba(19, 87, 220, 1);
+    text-decoration: none;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+}
+
+.register {
+    padding: 20px 265px;
+    color: #fff;
+    background-color:rgba(19, 87, 220, 1);
+    box-shadow: 7px 10px 31px 5px rgba(81, 124, 209, 0.29);
+    border-radius: 10px;
+    border: 1px solid rgba(19, 87, 220, 1);
+}
