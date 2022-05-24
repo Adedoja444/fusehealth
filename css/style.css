@@ -92,3 +92,10 @@
     margin-left: 50px;
 }
 
+.tog-icon {
+    background-image: url(../img/download.svg);
+}
+
+.icon-border {
+    border: 1px solid grey;
+}
